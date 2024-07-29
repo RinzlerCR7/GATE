@@ -9,4 +9,4 @@
 * [Lecture 5: Conduction](https://unacademy.com/class/heat-transfer-lecture-5-conduction-by-ashish-ranjan/JVWJ7PY6)
 * [Lecture 6: Conduction](https://unacademy.com/class/heat-transfer-lecture-6-conduction-by-ashish-ranjan/K2HWF8J5)
 * [Lecture 7: Conduction (Note: It is numbered incorrectly on Unacademy.)](https://unacademy.com/class/heat-transfer-lecture-5-conduction-by-ashish-ranjan/00NJL4II)
-* [Lecture 8: Conduction](https://unacademy.com/class/heat-transfer-lecture-8-conduction-by-ashish-ranjan/71KDLNKC)
+* [Lecture 8: Conduction (Note: Not playing on website. Playing in the Unacademy app.](https://unacademy.com/class/heat-transfer-lecture-8-conduction-by-ashish-ranjan/71KDLNKC)
